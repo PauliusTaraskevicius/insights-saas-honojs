@@ -14,4 +14,3 @@ Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 - 🌟 Clean, modern UI on top of shadcn-ui
 - 🔑 Authentication using Clerk
 - ⌨️ 100% written in TypeScript
-- 🎁 ...much more
